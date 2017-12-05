@@ -1,0 +1,16 @@
+
+.speedSlider{
+	width: 100px;
+	height: 6px;
+	border-radius: 2px;
+	background-color:#ddd;
+}
+.speedSlider-control{
+	width: 12px;
+	height: 12px;
+	top:-3px;
+	position: relative;
+	cursor:pointer;
+	border-radius: 4px;
+	background-color: #444;
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+body{
+  margin: 0;
+  font-family: 'Helvetica';
+  color:#464646;
+
+}
+header{
+  text-align: center;
+  padding: 0.5em;
+  font-size: 2.5em;
+  font-weight: 600;
+  border-bottom: 2px solid #ddd;
+}

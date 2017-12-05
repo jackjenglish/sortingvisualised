@@ -1,0 +1,128 @@
+/*#4c4e4d  yellow #fff200  #4f7177, ks: #464646 #979797 #8e8e8e*/
+b{
+	color:#4f7177;
+}
+
+.algorithms-root{
+	margin: 0 auto;
+	width:80%;
+	color:#464646;
+}
+.algorithm-section{
+	padding: 1.5em 1em;
+	margin-bottom:1em;
+}
+.algorithm-header{
+}
+.algorithm-title{
+	padding: 0em 0;
+	font-size: 1.75em;
+	font-weight: 600;
+	color:#444;
+}
+.algorithm-complexity{
+	color: #4f7177;
+	font-weight: 600;
+	margin-bottom: 1em;
+}
+.algorithm-complexity-text{
+	display: inline-block;
+	margin-right: 0.5em;
+}
+.algorithm-description{
+
+}
+.algorithm-section ul{
+	padding: 0.5em 0em 0.5em 1em;
+	margin: 0;
+}
+.algorithm-section li{
+	margin-bottom: 0.25em;
+}
+
+
+.algorithm-container{
+	padding: 1em;
+	background-color: #f6f6f6;
+	margin:0.5em 0;
+	position: relative;
+}
+.algorithm-notation{
+	display: flex;
+	justify-content: center;
+}
+.algorithm-play{
+	color: #4f7177;
+	font-size: 24px;
+	vertical-align: text-top;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 12px;
+}
+.algorithm-play:hover{
+	cursor:pointer;	
+	color: #3e575b;
+}
+.algorithm-array-input{
+	display: flex;
+	justify-content: center;
+}
+.algorithm-array-input input{
+	border-radius: 5px;
+	border:1px solid #ddd;
+	padding:0 0.5em;
+	width:150px;
+}
+
+
+
+.algorithm-note{
+	flex-grow: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.algorithm-note-text{
+	font-size: 12px;
+	margin-right: 6px;
+	color:#4f7177;
+	display: inline-block;
+}
+.algorithm-note-legend{
+	display: inline-block;
+	width: 12px;
+	height:12px;
+	border-radius: 6px;
+	background-color:#ddd;
+	margin-right:12px;
+}
+.algorithm-slider{
+	display: inline-block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.yellow{
+	background-color: #fff200;
+}
+.darkGrey{
+	background-color:#444;
+}
+.darkGreen{
+	background-color: #4f7177; 
+}
+.algorithm{
+	text-align: center;
+	padding: 1em;
+}
+.darkGrey-text{
+	color:#444;
+}
+.yellow-text{
+	color:#fff200;
+}
+.darkGreen-text{
+	color:#4f7177;
+}
