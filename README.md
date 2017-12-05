@@ -1,2 +1,2 @@
 # sortingvisualised
-Animations and explanations of sorting algorithms. Live: jackjenglish.com/sortingvisualised
+Animations and explanations of sorting algorithms. <a>Live</a>: jackjenglish.com/sortingvisualised
