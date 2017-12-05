@@ -18,7 +18,7 @@ class SelectionSort extends Component{
 				How it works:
 				<ul>
 					<li>
-					Selection sort splits the list into two parts. A sorted sublist that is built up from the left of the list towards the right and the sublist of items that haven't yet been sorted to the right of that.
+					Selection sort splits the list into two parts. A sorted sublist that is built up from the left of the list towards the right and the sublist of items that have not yet been sorted to the right of that.
 					</li>
 					<li>
 					Initially, the sorted sublist is empty and the unsorted sublist is the entire list.
